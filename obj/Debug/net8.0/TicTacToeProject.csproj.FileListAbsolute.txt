@@ -12,3 +12,4 @@ C:\Users\MCA-9\Documents\GitHub\TicTacToeProject\obj\Debug\net8.0\refint\TicTacT
 C:\Users\MCA-9\Documents\GitHub\TicTacToeProject\obj\Debug\net8.0\TicTacToeProject.pdb
 C:\Users\MCA-9\Documents\GitHub\TicTacToeProject\obj\Debug\net8.0\TicTacToeProject.genruntimeconfig.cache
 C:\Users\MCA-9\Documents\GitHub\TicTacToeProject\obj\Debug\net8.0\ref\TicTacToeProject.dll
+C:\Users\MCA-9\Documents\GitHub\TicTacToeProject\obj\Debug\net8.0\TicTacToeProject.sourcelink.json
