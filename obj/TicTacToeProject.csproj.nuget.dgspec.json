@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MCA-9\\Documents\\GitHub\\TicTacToeProject\\TicTacToeProject.csproj": {}
+    "C:\\Users\\MCA-9\\Documents\\GitHub\\C# Project\\Main Projects\\TicTacToeProject\\TicTacToeProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MCA-9\\Documents\\GitHub\\TicTacToeProject\\TicTacToeProject.csproj": {
+    "C:\\Users\\MCA-9\\Documents\\GitHub\\C# Project\\Main Projects\\TicTacToeProject\\TicTacToeProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MCA-9\\Documents\\GitHub\\TicTacToeProject\\TicTacToeProject.csproj",
+        "projectUniqueName": "C:\\Users\\MCA-9\\Documents\\GitHub\\C# Project\\Main Projects\\TicTacToeProject\\TicTacToeProject.csproj",
         "projectName": "TicTacToeProject",
-        "projectPath": "C:\\Users\\MCA-9\\Documents\\GitHub\\TicTacToeProject\\TicTacToeProject.csproj",
+        "projectPath": "C:\\Users\\MCA-9\\Documents\\GitHub\\C# Project\\Main Projects\\TicTacToeProject\\TicTacToeProject.csproj",
         "packagesPath": "C:\\Users\\MCA-9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MCA-9\\Documents\\GitHub\\TicTacToeProject\\obj\\",
+        "outputPath": "C:\\Users\\MCA-9\\Documents\\GitHub\\C# Project\\Main Projects\\TicTacToeProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MCA-9\\AppData\\Roaming\\NuGet\\NuGet.Config",
